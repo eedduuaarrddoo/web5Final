@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import {Navbar,Nav,NavDropdown} from 'react-bootstrap';
 
 const Navbar1 = (props) => {

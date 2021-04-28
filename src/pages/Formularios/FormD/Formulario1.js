@@ -1,6 +1,6 @@
 import Navbar1 from "../../../components/Navbar1" ;
 import Footer1 from "../../../components/Footer1";
-import {Card,Button,Form, Container} from 'react-bootstrap';
+import {Button,Form, Container} from 'react-bootstrap';
 
 
 function Formulario1() {
@@ -17,7 +17,7 @@ function Formulario1() {
     <Form.Label>Informe seu Email para receber o formulario</Form.Label>
     <Form.Control type="email" placeholder="Enter email" />
     <Form.Text className="text-muted">
-      We'll never share your email with anyone else.
+      
     </Form.Text>
   </Form.Group>
 
